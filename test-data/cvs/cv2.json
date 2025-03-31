@@ -1,0 +1,48 @@
+{
+  "name": "Jane Smith",
+  "contact": {
+    "email": "jane.smith@example.com",
+    "phone": "(555) 987-6543",
+    "location": "New York, NY"
+  },
+  "skills": [
+    { "name": "Java", "years": 7 },
+    { "name": "Spring Boot", "years": 4 },
+    { "name": "SQL", "years": 6 },
+    { "name": "Microservices", "years": null },
+    { "name": "Docker", "years": null }
+  ],
+  "experience": [
+    {
+      "title": "Lead Developer",
+      "company": "FinanceCo",
+      "period": "2019 - Present",
+      "achievements": [
+        "Designed and implemented microservices architecture",
+        "Managed migration from monolith to microservices",
+        "Reduced system downtime by 60%"
+      ]
+    },
+    {
+      "title": "Backend Developer",
+      "company": "TechGiant",
+      "period": "2016 - 2019",
+      "achievements": [
+        "Developed RESTful APIs serving 5M+ daily requests",
+        "Implemented caching solution improving response time by 45%"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Science",
+      "institution": "New York University",
+      "year": 2016
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "institution": "MIT",
+      "year": 2014
+    }
+  ]
+}

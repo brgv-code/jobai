@@ -1,0 +1,43 @@
+{
+  "name": "Robert Johnson",
+  "contact": {
+    "email": "robert.johnson@example.com",
+    "phone": "(555) 246-8101",
+    "location": "Austin, TX"
+  },
+  "skills": [
+    { "name": "C#", "years": 6 },
+    { "name": ".NET Core", "years": 3 },
+    { "name": "Azure", "years": 4 },
+    { "name": "CI/CD", "years": null },
+    { "name": "SQL Server", "years": null }
+  ],
+  "experience": [
+    {
+      "title": "Cloud Architect",
+      "company": "CloudSolutions",
+      "period": "2021 - Present",
+      "achievements": [
+        "Designed and implemented cloud-native applications",
+        "Reduced infrastructure costs by 35%",
+        "Led migration to Azure DevOps"
+      ]
+    },
+    {
+      "title": "Senior .NET Developer",
+      "company": "SoftwareCo",
+      "period": "2017 - 2021",
+      "achievements": [
+        "Developed enterprise applications using .NET Core",
+        "Implemented automated testing increasing code coverage by 40%"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Software Engineering",
+      "institution": "University of Texas",
+      "year": 2017
+    }
+  ]
+}

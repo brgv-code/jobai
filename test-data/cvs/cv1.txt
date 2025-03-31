@@ -1,0 +1,20 @@
+# JOHN DOE
+john.doe@example.com | (555) 123-4567 | San Francisco, CA
+
+## SKILLS
+Python (5 years), JavaScript (3 years), React (2 years), Data Analysis, Machine Learning
+
+## EXPERIENCE
+### Senior Software Engineer, TechCorp
+2020 - Present
+- Developed scalable backend services using Python and Django
+- Implemented CI/CD pipeline reducing deployment time by 40%
+- Led a team of 3 junior developers
+
+### Software Developer, StartupInc
+2018 - 2020
+- Built frontend components with React and Redux
+- Optimized database queries improving performance by 30%
+
+## EDUCATION
+Bachelor of Science in Computer Science, University of California, 2018 

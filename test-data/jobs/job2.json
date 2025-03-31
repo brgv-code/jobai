@@ -1,0 +1,52 @@
+{
+  "id": "job-002",
+  "title": "Frontend Developer",
+  "company": "PixelPerfect",
+  "location": "New York, NY",
+  "remote": "Remote",
+  "type": "Full-time",
+  "salary": "$90,000 - $120,000",
+  "posted_date": "2025-03-20",
+  "description": "PixelPerfect is looking for a talented Frontend Developer to create beautiful, responsive web applications. You'll work closely with our design and backend teams to implement user interfaces that are both visually appealing and highly performant.",
+  "responsibilities": [
+    "Implement responsive UIs using React and modern CSS",
+    "Work with designers to translate mockups into functional components",
+    "Optimize web applications for maximum speed and scalability",
+    "Ensure cross-browser compatibility and responsive design",
+    "Write clean, maintainable code with appropriate documentation"
+  ],
+  "requirements": [
+    "3+ years of experience with React.js",
+    "Strong knowledge of HTML, CSS, and JavaScript",
+    "Experience with modern CSS frameworks and methodologies",
+    "Familiarity with responsive design principles",
+    "Understanding of browser compatibility issues",
+    "Basic knowledge of web performance optimization"
+  ],
+  "nice_to_have": [
+    "Experience with Next.js",
+    "Knowledge of TypeScript",
+    "Understanding of UX design principles",
+    "Experience with animation libraries"
+  ],
+  "skills": [
+    "React.js",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "SASS/SCSS",
+    "Responsive Design",
+    "Git",
+    "Webpack",
+    "Jest"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, and vision coverage",
+    "Unlimited PTO",
+    "Home office stipend",
+    "Professional development opportunities"
+  ],
+  "application_url": "https://pixelperfect.io/careers/frontend-developer"
+}

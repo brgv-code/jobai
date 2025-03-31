@@ -1,0 +1,51 @@
+{
+  "id": "job-004",
+  "title": "DevOps Engineer",
+  "company": "CloudScaler",
+  "location": "Seattle, WA",
+  "remote": "Hybrid",
+  "type": "Full-time",
+  "salary": "$115,000 - $145,000",
+  "posted_date": "2025-03-28",
+  "description": "CloudScaler is seeking a skilled DevOps Engineer to build and maintain our cloud infrastructure. You'll work on automating deployment processes and ensuring system reliability and scalability.",
+  "responsibilities": [
+    "Design and implement devops engineer solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "6+ years of experience in devops engineer or similar role",
+    "Strong knowledge of Kubernetes, Docker, AWS",
+    "Experience with Terraform and CI/CD",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with Docker",
+    "Knowledge of Terraform",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "Kubernetes",
+    "Docker",
+    "AWS",
+    "Terraform",
+    "CI/CD",
+    "Git",
+    "Linux",
+    "Python",
+    "Monitoring"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://cloudscaler.com/careers/devops-engineer"
+}

@@ -1,0 +1,21 @@
+# LISA GARCIA
+lisa.garcia@example.com | (555) 852-9631 | Miami, FL
+
+## SKILLS
+Product Management (6 years), Agile (5 years), UX Design, Data Analysis
+
+## EXPERIENCE
+### Senior Product Manager, ProductCo
+2020 - Present
+- Led development of SaaS product with 50K+ users
+- Increased user retention by 25% through feature improvements
+- Coordinated cross-functional team of 12 members
+
+### Product Owner, AgileTeam
+2017 - 2020
+- Managed product backlog and sprint planning
+- Collaborated with developers and stakeholders
+
+## EDUCATION
+MBA, University of Miami, 2017
+Bachelor of Business Administration, Florida State University, 2015 

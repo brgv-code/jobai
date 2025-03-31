@@ -1,0 +1,43 @@
+{
+  "name": "John Doe",
+  "contact": {
+    "email": "john.doe@example.com",
+    "phone": "(555) 123-4567",
+    "location": "San Francisco, CA"
+  },
+  "skills": [
+    { "name": "Python", "years": 5 },
+    { "name": "JavaScript", "years": 3 },
+    { "name": "React", "years": 2 },
+    { "name": "Data Analysis", "years": null },
+    { "name": "Machine Learning", "years": null }
+  ],
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "TechCorp",
+      "period": "2020 - Present",
+      "achievements": [
+        "Developed scalable backend services using Python and Django",
+        "Implemented CI/CD pipeline reducing deployment time by 40%",
+        "Led a team of 3 junior developers"
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "company": "StartupInc",
+      "period": "2018 - 2020",
+      "achievements": [
+        "Built frontend components with React and Redux",
+        "Optimized database queries improving performance by 30%"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California",
+      "year": 2018
+    }
+  ]
+}

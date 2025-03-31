@@ -1,0 +1,51 @@
+{
+  "id": "job-020",
+  "title": "Cloud Architect",
+  "company": "CloudDesign",
+  "location": "Houston, TX",
+  "remote": "Remote",
+  "type": "Full-time",
+  "salary": "$140,000 - $180,000",
+  "posted_date": "2025-03-06",
+  "description": "CloudDesign is seeking a Cloud Architect to design scalable cloud solutions. You'll lead cloud migration efforts and implement best practices for cloud infrastructure.",
+  "responsibilities": [
+    "Design and implement cloud architect solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "5+ years of experience in cloud architect or similar role",
+    "Strong knowledge of AWS, Azure, GCP",
+    "Experience with Cloud Migration and Microservices",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with Kubernetes",
+    "Knowledge of Cloud Migration",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Cloud Migration",
+    "Microservices",
+    "Security",
+    "IaC",
+    "Kubernetes",
+    "Serverless"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://clouddesign.com/careers/cloud-architect"
+}

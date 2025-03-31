@@ -1,0 +1,21 @@
+# JANE SMITH
+jane.smith@example.com | (555) 987-6543 | New York, NY
+
+## SKILLS
+Java (7 years), Spring Boot (4 years), SQL (6 years), Microservices, Docker
+
+## EXPERIENCE
+### Lead Developer, FinanceCo
+2019 - Present
+- Designed and implemented microservices architecture
+- Managed migration from monolith to microservices
+- Reduced system downtime by 60%
+
+### Backend Developer, TechGiant
+2016 - 2019
+- Developed RESTful APIs serving 5M+ daily requests
+- Implemented caching solution improving response time by 45%
+
+## EDUCATION
+Master of Computer Science, New York University, 2016
+Bachelor of Engineering, MIT, 2014 

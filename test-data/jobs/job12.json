@@ -1,0 +1,50 @@
+{
+  "id": "job-012",
+  "title": "Data Engineer",
+  "company": "DataFlow",
+  "location": "Atlanta, GA",
+  "remote": "Remote",
+  "type": "Full-time",
+  "salary": "$110,000 - $140,000",
+  "posted_date": "2025-03-06",
+  "description": "DataFlow is seeking a Data Engineer to build and maintain our data infrastructure. You'll design data pipelines, optimize databases, and ensure data quality.",
+  "responsibilities": [
+    "Design and implement data engineer solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "4+ years of experience in data engineer or similar role",
+    "Strong knowledge of Python, SQL, ETL",
+    "Experience with Data Warehousing and Apache Spark",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with ETL",
+    "Knowledge of Airflow",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "ETL",
+    "Data Warehousing",
+    "Apache Spark",
+    "Airflow",
+    "AWS",
+    "Snowflake"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://dataflow.com/careers/data-engineer"
+}
