@@ -1,0 +1,20 @@
+# MICHAEL BROWN
+michael.brown@example.com | (555) 147-2583 | Chicago, IL
+
+## SKILLS
+DevOps (5 years), Kubernetes (3 years), AWS (4 years), Terraform, CI/CD
+
+## EXPERIENCE
+### DevOps Engineer, CloudOps
+2019 - Present
+- Managed Kubernetes clusters across multiple environments
+- Implemented infrastructure as code using Terraform
+- Reduced deployment failures by 75%
+
+### Systems Administrator, TechSupport
+2017 - 2019
+- Automated server provisioning and configuration
+- Managed Linux and Windows servers in hybrid environment
+
+## EDUCATION
+Bachelor of Science in Information Technology, University of Illinois, 2017 

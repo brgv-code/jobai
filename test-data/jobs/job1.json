@@ -1,0 +1,52 @@
+{
+  "id": "job-001",
+  "title": "Senior Backend Developer",
+  "company": "TechInnovate",
+  "location": "San Francisco, CA",
+  "remote": "Hybrid",
+  "type": "Full-time",
+  "salary": "$130,000 - $160,000",
+  "posted_date": "2025-03-15",
+  "description": "TechInnovate is seeking an experienced Senior Backend Developer to join our growing engineering team. You will be responsible for designing, implementing, and maintaining high-performance, scalable backend services that power our SaaS platform.",
+  "responsibilities": [
+    "Design and implement scalable backend APIs and services",
+    "Optimize database queries and data models for performance",
+    "Work with DevOps to implement CI/CD pipelines",
+    "Mentor junior developers and perform code reviews",
+    "Collaborate with frontend teams to ensure seamless integration"
+  ],
+  "requirements": [
+    "5+ years of professional software development experience",
+    "Strong knowledge of Node.js and Express.js framework",
+    "Experience with PostgreSQL and database optimization",
+    "Familiarity with microservices architecture",
+    "Understanding of Docker and Kubernetes",
+    "Experience with AWS or similar cloud services"
+  ],
+  "nice_to_have": [
+    "Experience with TypeScript",
+    "Knowledge of GraphQL",
+    "Contribution to open source projects",
+    "Experience with Redis or other caching solutions"
+  ],
+  "skills": [
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Microservices",
+    "API Design",
+    "Git"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and equity",
+    "Health, dental, and vision insurance",
+    "401(k) matching",
+    "Flexible work schedule",
+    "Professional development budget"
+  ],
+  "application_url": "https://techinnovate.com/careers/senior-backend-developer"
+}

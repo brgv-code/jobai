@@ -1,0 +1,50 @@
+{
+  "id": "job-008",
+  "title": "Mobile Developer (iOS)",
+  "company": "AppCraft",
+  "location": "Los Angeles, CA",
+  "remote": "Remote",
+  "type": "Full-time",
+  "salary": "$100,000 - $135,000",
+  "posted_date": "2025-03-19",
+  "description": "AppCraft is seeking an iOS Developer to build beautiful mobile applications. You'll be responsible for implementing new features and maintaining existing functionality.",
+  "responsibilities": [
+    "Design and implement mobile developer (ios) solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "2+ years of experience in mobile developer (ios) or similar role",
+    "Strong knowledge of Swift, iOS SDK, Xcode",
+    "Experience with UIKit and Core Data",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with Core Data",
+    "Knowledge of UIKit",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "Swift",
+    "iOS SDK",
+    "Xcode",
+    "UIKit",
+    "Core Data",
+    "REST APIs",
+    "Git",
+    "TestFlight"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://appcraft.com/careers/mobile-developer-(ios)"
+}

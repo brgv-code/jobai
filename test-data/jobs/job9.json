@@ -1,0 +1,50 @@
+{
+  "id": "job-009",
+  "title": "Machine Learning Engineer",
+  "company": "AICompany",
+  "location": "San Jose, CA",
+  "remote": "On-site",
+  "type": "Full-time",
+  "salary": "$130,000 - $165,000",
+  "posted_date": "2025-03-17",
+  "description": "AICompany is looking for a Machine Learning Engineer to develop and deploy ML models. You'll work on cutting-edge ML solutions to solve complex business problems.",
+  "responsibilities": [
+    "Design and implement machine learning engineer solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "4+ years of experience in machine learning engineer or similar role",
+    "Strong knowledge of Python, TensorFlow, PyTorch",
+    "Experience with Deep Learning and NLP",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with Docker",
+    "Knowledge of Computer Vision",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Deep Learning",
+    "NLP",
+    "Computer Vision",
+    "ML Ops",
+    "Docker"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://aicompany.com/careers/machine-learning-engineer"
+}

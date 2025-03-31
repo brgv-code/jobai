@@ -1,0 +1,50 @@
+{
+  "id": "job-010",
+  "title": "QA Engineer",
+  "company": "QualityTech",
+  "location": "Denver, CO",
+  "remote": "Hybrid",
+  "type": "Full-time",
+  "salary": "$85,000 - $110,000",
+  "posted_date": "2025-03-14",
+  "description": "QualityTech is seeking a QA Engineer to ensure the quality of our products. You'll design and implement test plans, automate test cases, and report bugs.",
+  "responsibilities": [
+    "Design and implement qa engineer solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "3+ years of experience in qa engineer or similar role",
+    "Strong knowledge of Test Automation, Selenium, API Testing",
+    "Experience with Cypress and JIRA",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with Test Automation",
+    "Knowledge of CI/CD",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "Test Automation",
+    "Selenium",
+    "API Testing",
+    "Cypress",
+    "JIRA",
+    "SQL",
+    "JavaScript",
+    "CI/CD"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://qualitytech.com/careers/qa-engineer"
+}

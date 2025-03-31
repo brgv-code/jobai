@@ -1,0 +1,20 @@
+# SARAH WILLIAMS
+sarah.williams@example.com | (555) 369-2580 | Seattle, WA
+
+## SKILLS
+JavaScript (6 years), Node.js (4 years), MongoDB (3 years), Express, React
+
+## EXPERIENCE
+### Full Stack Developer, WebTech
+2020 - Present
+- Built MERN stack applications for enterprise clients
+- Implemented real-time features using Socket.io
+- Optimized React components reducing render time by 35%
+
+### Frontend Developer, DevShop
+2018 - 2020
+- Developed responsive web interfaces using React
+- Collaborated with UX team to improve user experience
+
+## EDUCATION
+Bachelor of Arts in Computer Science, University of Washington, 2018 

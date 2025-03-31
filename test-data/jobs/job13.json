@@ -1,0 +1,50 @@
+{
+  "id": "job-013",
+  "title": "Blockchain Developer",
+  "company": "ChainTech",
+  "location": "Miami, FL",
+  "remote": "Hybrid",
+  "type": "Full-time",
+  "salary": "$125,000 - $160,000",
+  "posted_date": "2025-03-25",
+  "description": "ChainTech is looking for a Blockchain Developer to build decentralized applications. You'll design and implement smart contracts and blockchain solutions.",
+  "responsibilities": [
+    "Design and implement blockchain developer solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "3+ years of experience in blockchain developer or similar role",
+    "Strong knowledge of Solidity, Ethereum, Smart Contracts",
+    "Experience with Web3.js and DApps",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with Smart Contracts",
+    "Knowledge of Node.js",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "Solidity",
+    "Ethereum",
+    "Smart Contracts",
+    "Web3.js",
+    "DApps",
+    "Blockchain Architecture",
+    "JavaScript",
+    "Node.js"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://chaintech.com/careers/blockchain-developer"
+}

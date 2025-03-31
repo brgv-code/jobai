@@ -1,0 +1,49 @@
+{
+  "id": "job-007",
+  "title": "Product Manager",
+  "company": "ProductHub",
+  "location": "Chicago, IL",
+  "remote": "Hybrid",
+  "type": "Full-time",
+  "salary": "$110,000 - $140,000",
+  "posted_date": "2025-03-13",
+  "description": "ProductHub is looking for a Product Manager to lead our flagship product. You'll define product strategy, prioritize features, and work with engineering to bring products to market.",
+  "responsibilities": [
+    "Design and implement product manager solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "4+ years of experience in product manager or similar role",
+    "Strong knowledge of Product Strategy, Agile, Market Research",
+    "Experience with User Stories and Roadmapping",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with User Stories",
+    "Knowledge of Product Strategy",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "Product Strategy",
+    "Agile",
+    "Market Research",
+    "User Stories",
+    "Roadmapping",
+    "Analytics",
+    "A/B Testing"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://producthub.com/careers/product-manager"
+}

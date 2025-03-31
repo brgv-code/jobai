@@ -1,0 +1,50 @@
+{
+  "id": "job-006",
+  "title": "UI/UX Designer",
+  "company": "DesignMakers",
+  "location": "Portland, OR",
+  "remote": "On-site",
+  "type": "Contract",
+  "salary": "$85,000 - $115,000",
+  "posted_date": "2025-03-02",
+  "description": "DesignMakers is seeking a talented UI/UX Designer to create beautiful and intuitive user interfaces. You'll collaborate with stakeholders to understand user needs and translate them into engaging designs.",
+  "responsibilities": [
+    "Design and implement ui/ux designer solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "3+ years of experience in ui/ux designer or similar role",
+    "Strong knowledge of Figma, Adobe XD, User Research",
+    "Experience with Wireframing and Prototyping",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with User Research",
+    "Knowledge of Adobe XD",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "Figma",
+    "Adobe XD",
+    "User Research",
+    "Wireframing",
+    "Prototyping",
+    "Visual Design",
+    "UI Design",
+    "UX Design"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://designmakers.com/careers/ui/ux-designer"
+}

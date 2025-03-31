@@ -1,0 +1,48 @@
+{
+  "id": "job-017",
+  "title": "Technical Writer",
+  "company": "DocuTech",
+  "location": "Pittsburgh, PA",
+  "remote": "Remote",
+  "type": "Full-time",
+  "salary": "$75,000 - $95,000",
+  "posted_date": "2025-03-21",
+  "description": "DocuTech is looking for a Technical Writer to create clear documentation. You'll work with engineers to document APIs, features, and processes for users and developers.",
+  "responsibilities": [
+    "Design and implement technical writer solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "2+ years of experience in technical writer or similar role",
+    "Strong knowledge of Technical Documentation, API Documentation, Markdown",
+    "Experience with Information Architecture and Editing",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with Information Architecture",
+    "Knowledge of Markdown",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "Technical Documentation",
+    "API Documentation",
+    "Markdown",
+    "Information Architecture",
+    "Editing",
+    "Software Knowledge"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://docutech.com/careers/technical-writer"
+}

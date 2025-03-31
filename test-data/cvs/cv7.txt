@@ -1,0 +1,21 @@
+# DAVID WILSON
+david.wilson@example.com | (555) 741-8520 | Denver, CO
+
+## SKILLS
+Data Science (4 years), Python (5 years), R (3 years), Machine Learning, Big Data
+
+## EXPERIENCE
+### Data Scientist, AnalyticsCorp
+2019 - Present
+- Developed predictive models increasing forecast accuracy by 30%
+- Implemented recommendation engine driving 15% increase in sales
+- Led data cleansing initiatives improving data quality
+
+### Data Analyst, ResearchInc
+2017 - 2019
+- Performed statistical analysis on large datasets
+- Created data visualizations for executive presentations
+
+## EDUCATION
+Master of Science in Data Science, University of Colorado, 2019
+Bachelor of Science in Statistics, Colorado State University, 2017 

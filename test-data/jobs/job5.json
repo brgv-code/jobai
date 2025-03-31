@@ -1,0 +1,50 @@
+{
+  "id": "job-005",
+  "title": "Full Stack Developer",
+  "company": "WebSolutions",
+  "location": "Austin, TX",
+  "remote": "Remote",
+  "type": "Full-time",
+  "salary": "$95,000 - $130,000",
+  "posted_date": "2025-03-03",
+  "description": "WebSolutions is looking for a Full Stack Developer to build modern web applications. You'll work on both frontend and backend components to deliver seamless user experiences.",
+  "responsibilities": [
+    "Design and implement full stack developer solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "3+ years of experience in full stack developer or similar role",
+    "Strong knowledge of JavaScript, React, Node.js",
+    "Experience with MongoDB and Express",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with MongoDB",
+    "Knowledge of Git",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "MongoDB",
+    "Express",
+    "REST APIs",
+    "Git",
+    "HTML/CSS"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://websolutions.com/careers/full-stack-developer"
+}

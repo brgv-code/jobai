@@ -1,0 +1,49 @@
+{
+  "id": "job-016",
+  "title": "Database Administrator",
+  "company": "DataCore",
+  "location": "Dallas, TX",
+  "remote": "Hybrid",
+  "type": "Full-time",
+  "salary": "$100,000 - $130,000",
+  "posted_date": "2025-03-25",
+  "description": "DataCore is seeking a Database Administrator to manage our database systems. You'll optimize performance, ensure data integrity, and implement security measures.",
+  "responsibilities": [
+    "Design and implement database administrator solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "3+ years of experience in database administrator or similar role",
+    "Strong knowledge of PostgreSQL, MySQL, Database Design",
+    "Experience with Performance Tuning and Backup/Recovery",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with PostgreSQL",
+    "Knowledge of Security",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "PostgreSQL",
+    "MySQL",
+    "Database Design",
+    "Performance Tuning",
+    "Backup/Recovery",
+    "High Availability",
+    "Security"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://datacore.com/careers/database-administrator"
+}

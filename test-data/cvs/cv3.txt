@@ -1,0 +1,20 @@
+# ROBERT JOHNSON
+robert.johnson@example.com | (555) 246-8101 | Austin, TX
+
+## SKILLS
+C# (6 years), .NET Core (3 years), Azure (4 years), CI/CD, SQL Server
+
+## EXPERIENCE
+### Cloud Architect, CloudSolutions
+2021 - Present
+- Designed and implemented cloud-native applications
+- Reduced infrastructure costs by 35%
+- Led migration to Azure DevOps
+
+### Senior .NET Developer, SoftwareCo
+2017 - 2021
+- Developed enterprise applications using .NET Core
+- Implemented automated testing increasing code coverage by 40%
+
+## EDUCATION
+Bachelor of Science in Software Engineering, University of Texas, 2017 

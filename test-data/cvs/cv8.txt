@@ -1,0 +1,20 @@
+# EMILY TAYLOR
+emily.taylor@example.com | (555) 963-2587 | Portland, OR
+
+## SKILLS
+UI/UX Design (5 years), Figma (3 years), Adobe XD, HTML/CSS, JavaScript
+
+## EXPERIENCE
+### Senior UX Designer, DesignStudio
+2020 - Present
+- Created user-centered designs for mobile and web applications
+- Conducted user research and usability testing
+- Improved conversion rates by 40% through UI optimizations
+
+### UI Designer, CreativeCo
+2018 - 2020
+- Designed responsive web interfaces
+- Collaborated with developers to implement designs
+
+## EDUCATION
+Bachelor of Fine Arts in Graphic Design, Portland State University, 2018 

@@ -1,0 +1,49 @@
+{
+  "id": "job-015",
+  "title": "AR/VR Developer",
+  "company": "ImmersiveTech",
+  "location": "Raleigh, NC",
+  "remote": "On-site",
+  "type": "Full-time",
+  "salary": "$110,000 - $140,000",
+  "posted_date": "2025-03-01",
+  "description": "ImmersiveTech is looking for an AR/VR Developer to create immersive experiences. You'll design and develop applications for AR and VR platforms.",
+  "responsibilities": [
+    "Design and implement ar/vr developer solutions that meet business requirements",
+    "Collaborate with cross-functional teams to deliver high-quality products",
+    "Troubleshoot and resolve complex technical issues",
+    "Stay up-to-date with industry trends and best practices",
+    "Contribute to documentation and knowledge sharing"
+  ],
+  "requirements": [
+    "2+ years of experience in ar/vr developer or similar role",
+    "Strong knowledge of Unity, C#, 3D Modeling",
+    "Experience with AR Frameworks and VR Development",
+    "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "Excellent problem-solving and communication skills"
+  ],
+  "nice_to_have": [
+    "Experience with UI/UX for AR/VR",
+    "Knowledge of 3D Modeling",
+    "Familiarity with agile development methodologies",
+    "Previous experience in a similar industry"
+  ],
+  "skills": [
+    "Unity",
+    "C#",
+    "3D Modeling",
+    "AR Frameworks",
+    "VR Development",
+    "UI/UX for AR/VR",
+    "Spatial Computing"
+  ],
+  "education": "Bachelor's degree in Computer Science or equivalent experience",
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Retirement plan with company match",
+    "Professional development opportunities",
+    "Flexible work arrangements"
+  ],
+  "application_url": "https://immersivetech.com/careers/ar/vr-developer"
+}
